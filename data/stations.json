@@ -1,0 +1,742 @@
+{
+  "北海道": [
+    {
+      "station_id": "fmhana",
+      "station_name": "ＦＭはな",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "moeru",
+      "station_name": "エフエムもえる",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "airtesshi",
+      "station_name": "Ａｉｒてっし",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "radioniseko",
+      "station_name": "ラジオニセコ",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "iruka",
+      "station_name": "FMいるか",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "muroran",
+      "station_name": "FMびゅー",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "fmtomakomai",
+      "station_name": "FMとまこまい",
+      "prefecture": "北海道"
+    },
+    {
+      "station_id": "fmkuriyama",
+      "station_name": "FMくりやま",
+      "prefecture": "北海道"
+    }
+  ],
+  "東北": [
+    {
+      "station_id": "fmazur",
+      "station_name": "FM AZUR",
+      "prefecture": "青森県"
+    },
+    {
+      "station_id": "applewave",
+      "station_name": "アップルウェーブ",
+      "prefecture": "岩手県"
+    },
+    {
+      "station_id": "fmgoshogawara",
+      "station_name": "FMごしょがわら",
+      "prefecture": "青森県"
+    },
+    {
+      "station_id": "fmone",
+      "station_name": "FMONE",
+      "prefecture": "岩手県"
+    },
+    {
+      "station_id": "fmiwanuma",
+      "station_name": "エフエムいわぬま",
+      "prefecture": "宮城県"
+    },
+    {
+      "station_id": "hatfm",
+      "station_name": "Ｈ＠！ＦＭ",
+      "prefecture": "福島県"
+    },
+    {
+      "station_id": "radiomonster",
+      "station_name": "ラジオ モンスター",
+      "prefecture": "福島県"
+    },
+    {
+      "station_id": "yonezawancvfm",
+      "station_name": "エフエムNCV",
+      "prefecture": "山形県"
+    },
+    {
+      "station_id": "orandaradio",
+      "station_name": "えふえむい〜じゃん()",
+      "prefecture": "福島県"
+    },
+    {
+      "station_id": "harborradio",
+      "station_name": "ハーバーラジオ",
+      "prefecture": "宮城県"
+    },
+    {
+      "station_id": "ultrafm",
+      "station_name": "ウルトラＦＭ",
+      "prefecture": "福島県"
+    },
+    {
+      "station_id": "fmpoco",
+      "station_name": "ＦＭポコ",
+      "prefecture": "宮城県"
+    },
+    {
+      "station_id": "fmkitakata",
+      "station_name": "エフエムきたかた",
+      "prefecture": "岩手県"
+    },
+    {
+      "station_id": "fmaizu",
+      "station_name": "FM愛'S",
+      "prefecture": "福島県"
+    }
+  ],
+  "関東": [
+    {
+      "station_id": "fmdaigo",
+      "station_name": "ＦＭだいご",
+      "prefecture": "茨城県"
+    },
+    {
+      "station_id": "fmkashima",
+      "station_name": "FMかしま",
+      "prefecture": "茨城県"
+    },
+    {
+      "station_id": "radiotakasaki",
+      "station_name": "ラジオ高崎",
+      "prefecture": "群馬県"
+    },
+    {
+      "station_id": "fmtaro",
+      "station_name": "エフエム太郎",
+      "prefecture": "群馬県"
+    },
+    {
+      "station_id": "fmoze",
+      "station_name": "ＦＭ ＯＺＥ",
+      "prefecture": "栃木県"
+    },
+    {
+      "station_id": "radionanami",
+      "station_name": "ラヂオななみ",
+      "prefecture": "埼玉県"
+    },
+    {
+      "station_id": "fmchappy",
+      "station_name": "ＦＭチャッピー",
+      "prefecture": "千葉県"
+    },
+    {
+      "station_id": "miyoshifm",
+      "station_name": "発するFM",
+      "prefecture": "千葉県"
+    },
+    {
+      "station_id": "radiokawagoe",
+      "station_name": "ラジオ川越",
+      "prefecture": "埼玉県"
+    },
+    {
+      "station_id": "ulalafm",
+      "station_name": "市川うららFM(I&U-LaLaFM)",
+      "prefecture": "千葉県"
+    },
+    {
+      "station_id": "kazusafm",
+      "station_name": "かずさFM",
+      "prefecture": "千葉県"
+    },
+    {
+      "station_id": "radionarita",
+      "station_name": "ラジオ成田",
+      "prefecture": "千葉県"
+    },
+    {
+      "station_id": "fmfukuro",
+      "station_name": "ふくろうFM",
+      "prefecture": "埼玉県"
+    },
+    {
+      "station_id": "skywavefm",
+      "station_name": "SKYWAVE FM",
+      "prefecture": "茨城県"
+    },
+    {
+      "station_id": "fmedogawa",
+      "station_name": "ＦＭえどがわ",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "musashinofm",
+      "station_name": "むさしのＦＭ",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "fmshinagawa",
+      "station_name": "FMしながわ",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "fmkatsushika",
+      "station_name": "かつしかFM",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "shibuyanoradio",
+      "station_name": "渋谷のラジオ",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "radiocity",
+      "station_name": "中央エフエム・RADIO CITY",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "komaraji",
+      "station_name": "コマラジ",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "fmblesohonan",
+      "station_name": "ＦＭブルー湘南",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "kamakurafm",
+      "station_name": "鎌倉FM",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "fmshonan",
+      "station_name": "FM湘南ナパサ",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "fmodawara",
+      "station_name": "FMおだわら",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "magicwave",
+      "station_name": "FM湘南マジックウェイブ",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "fmyamato",
+      "station_name": "FMやまと",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "radioshonan",
+      "station_name": "レディオ湘南",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "fmsalus",
+      "station_name": "FMサルース",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "marinefm",
+      "station_name": "マリンFM",
+      "prefecture": "東京都"
+    },
+    {
+      "station_id": "fmtotsuka",
+      "station_name": "エフエム戸塚",
+      "prefecture": "神奈川県"
+    },
+    {
+      "station_id": "chigasakifm",
+      "station_name": "エボラジ",
+      "prefecture": "神奈川県"
+    }
+  ],
+  "信越": [
+    {
+      "station_id": "fmkofu",
+      "station_name": "エフエム甲府",
+      "prefecture": "山梨県"
+    },
+    {
+      "station_id": "fmfujiyama",
+      "station_name": "FMふじやま",
+      "prefecture": "山梨県"
+    },
+    {
+      "station_id": "fmfujigoko",
+      "station_name": "エフエム ふじごこ",
+      "prefecture": "山梨県"
+    },
+    {
+      "station_id": "fmyatsugatake",
+      "station_name": "FM八ヶ岳",
+      "prefecture": "長野県"
+    },
+    {
+      "station_id": "radiochat",
+      "station_name": "ラジオチャット・FMにいつ",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmuonuma",
+      "station_name": "FMうおぬま",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmnagaoka",
+      "station_name": "エフエムながおか",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmshibata",
+      "station_name": "エフエムしばた",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmkento",
+      "station_name": "FM KENTO",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmyukiguni",
+      "station_name": "ＦＭゆきぐに",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmjyoetsu",
+      "station_name": "FMじょうえつ",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "fmpikkara",
+      "station_name": "FMピッカラ",
+      "prefecture": "新潟県"
+    },
+    {
+      "station_id": "lovefm",
+      "station_name": "LCV FM",
+      "prefecture": "群馬県"
+    },
+    {
+      "station_id": "fmkaruizawa",
+      "station_name": "FM軽井沢",
+      "prefecture": "群馬県"
+    },
+    {
+      "station_id": "azuminofm",
+      "station_name": "エフエムあづみの",
+      "prefecture": "長野県"
+    },
+    {
+      "station_id": "shiojirifm",
+      "station_name": "高ボッチ高原FM",
+      "prefecture": "長野県"
+    },
+    {
+      "station_id": "inadanifm",
+      "station_name": "伊那谷FM",
+      "prefecture": "長野県"
+    },
+    {
+      "station_id": "fmpipi",
+      "station_name": "ＦＭＰｉＰｉ",
+      "prefecture": "長野県"
+    },
+    {
+      "station_id": "fmwatch",
+      "station_name": "ＦＭわっち",
+      "prefecture": "長野県"
+    }
+  ],
+  "東海": [
+    {
+      "station_id": "hitsfm",
+      "station_name": "Ｈｉｔｓ ＦＭ",
+      "prefecture": "岐阜県"
+    },
+    {
+      "station_id": "haro",
+      "station_name": "FM Haro!",
+      "prefecture": "愛知県"
+    },
+    {
+      "station_id": "fnis",
+      "station_name": "FM ISみらいずステーション",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fmshimada",
+      "station_name": "g-sky76.5",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fujiyamagogofm",
+      "station_name": "富士山ＧＯＧＯＦＭ",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "voicecue",
+      "station_name": "ボイスキュー",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fmshimizu",
+      "station_name": "マリンパル",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fmhi",
+      "station_name": "FM-Hi！",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "radiof",
+      "station_name": "Radio-f",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "coastfm",
+      "station_name": "COAST-FM76.7MHZ",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "nagisastation",
+      "station_name": "エフエムなぎさステーション",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "ciao",
+      "station_name": "Ciao!",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fmizunokuni",
+      "station_name": "FMいずのくに",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fmyaizu",
+      "station_name": "RADIO LUSH",
+      "prefecture": "静岡県"
+    },
+    {
+      "station_id": "fmnanami",
+      "station_name": "エフエム ななみ",
+      "prefecture": "愛知県"
+    },
+    {
+      "station_id": "unitednorth",
+      "station_name": "United North",
+      "prefecture": "愛知県"
+    },
+    {
+      "station_id": "radiosanq",
+      "station_name": "RADIO SANQ",
+      "prefecture": "愛知県"
+    },
+    {
+      "station_id": "fmichinomiya",
+      "station_name": "i-wave",
+      "prefecture": "三重県"
+    },
+    {
+      "station_id": "heartfm",
+      "station_name": "HeartFM",
+      "prefecture": "三重県"
+    },
+    {
+      "station_id": "inabefm",
+      "station_name": "いなべエフエム",
+      "prefecture": "三重県"
+    },
+    {
+      "station_id": "suzuka",
+      "station_name": "Suzuka Voice FM 78.3MHz",
+      "prefecture": "三重県"
+    }
+  ],
+  "北陸": [
+    {
+      "station_id": "toyamacityfm",
+      "station_name": "富山シティエフエム",
+      "prefecture": "富山県"
+    },
+    {
+      "station_id": "fmtonami",
+      "station_name": "エフエムとなみ",
+      "prefecture": "富山県"
+    },
+    {
+      "station_id": "radiotakaoka",
+      "station_name": "ラジオたかおか",
+      "prefecture": "富山県"
+    },
+    {
+      "station_id": "radiokomatsu",
+      "station_name": "ラジオこまつ",
+      "prefecture": "石川県"
+    },
+    {
+      "station_id": "radionanao",
+      "station_name": "ラジオななお",
+      "prefecture": "石川県"
+    },
+    {
+      "station_id": "radionazawa",
+      "station_name": "ラジオかなざわ",
+      "prefecture": "石川県"
+    }
+  ],
+  "近畿": [
+    {
+      "station_id": "fmkusatsu",
+      "station_name": "えふえむ草津",
+      "prefecture": "滋賀県"
+    },
+    {
+      "station_id": "fmikaru",
+      "station_name": "ＦＭいかる",
+      "prefecture": "京都府"
+    },
+    {
+      "station_id": "fmuji",
+      "station_name": "FMうじ",
+      "prefecture": "京都府"
+    },
+    {
+      "station_id": "fmmaizuru",
+      "station_name": "FMまいづる",
+      "prefecture": "京都府"
+    },
+    {
+      "station_id": "kyotoribingufm",
+      "station_name": "FM845",
+      "prefecture": "京都府"
+    },
+    {
+      "station_id": "fmsenri",
+      "station_name": "FM千里",
+      "prefecture": "大阪府"
+    },
+    {
+      "station_id": "umedafm",
+      "station_name": "ウメダFM",
+      "prefecture": "大阪府"
+    },
+    {
+      "station_id": "minofm",
+      "station_name": "タッキー816みのおエフエム",
+      "prefecture": "大阪府"
+    },
+    {
+      "station_id": "fmitami",
+      "station_name": "エフエムいたみ",
+      "prefecture": "兵庫県"
+    },
+    {
+      "station_id": "fmtakarazuka",
+      "station_name": "ハミングFM宝塚",
+      "prefecture": "兵庫県"
+    },
+    {
+      "station_id": "sakurafm",
+      "station_name": "さくらFM",
+      "prefecture": "兵庫県"
+    },
+    {
+      "station_id": "fmmiki",
+      "station_name": "エフエムみっきぃ",
+      "prefecture": "兵庫県"
+    },
+    {
+      "station_id": "tanba",
+      "station_name": "805たんば",
+      "prefecture": "兵庫県"
+    },
+    {
+      "station_id": "fmgenki",
+      "station_name": "FM GENKI",
+      "prefecture": "兵庫県"
+    },
+    {
+      "station_id": "narafm",
+      "station_name": "ならどっとＦＭ",
+      "prefecture": "奈良県"
+    },
+    {
+      "station_id": "fmnishiyamato",
+      "station_name": "エフエムハイホー",
+      "prefecture": "奈良県"
+    },
+    {
+      "station_id": "fmgojo",
+      "station_name": "ＦＭ五條",
+      "prefecture": "奈良県"
+    },
+    {
+      "station_id": "fmmahoroba",
+      "station_name": "FMまほろば",
+      "prefecture": "奈良県"
+    },
+    {
+      "station_id": "bananafm",
+      "station_name": "バナナエフエム",
+      "prefecture": "和歌山県"
+    },
+    {
+      "station_id": "fmtanabe",
+      "station_name": "FM TANABE",
+      "prefecture": "和歌山県"
+    },
+    {
+      "station_id": "fmhashimoto",
+      "station_name": "FMはしもと",
+      "prefecture": "和歌山県"
+    },
+    {
+      "station_id": "beachstation",
+      "station_name": "FMビーチステーション",
+      "prefecture": "和歌山県"
+    }
+  ],
+  "中国": [
+    {
+      "station_id": "radiomomo",
+      "station_name": "レディオ モモ",
+      "prefecture": "山口県"
+    },
+    {
+      "station_id": "fmkurashiki",
+      "station_name": "FMくらしき",
+      "prefecture": "岡山県"
+    },
+    {
+      "station_id": "bingo",
+      "station_name": "FMふくやま",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "fmonomichi",
+      "station_name": "FMおのみち",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "fmchupea",
+      "station_name": "FMちゅーピー",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "fmhatsukaichi",
+      "station_name": "FMはつかいち",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "fmhigashihiroshima",
+      "station_name": "FM東広島",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "fmmihara",
+      "station_name": "FOR LIFE RADIO",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "comeonfm",
+      "station_name": "ＣＯＭＥ ＯＮ ! ＦＭ",
+      "prefecture": "広島県"
+    },
+    {
+      "station_id": "shunanfm",
+      "station_name": "しゅうなんＦＭ",
+      "prefecture": "山口県"
+    },
+    {
+      "station_id": "radiobird",
+      "station_name": "RADIO BIRD",
+      "prefecture": "山口県"
+    },
+    {
+      "station_id": "fmsun",
+      "station_name": "エフエム・サン",
+      "prefecture": "山口県"
+    }
+  ],
+  "四国": [
+    {
+      "station_id": "fmradiobaribari",
+      "station_name": "FMラヂオバリバリ",
+      "prefecture": "山口県"
+    },
+    {
+      "station_id": "fmgaiya",
+      "station_name": "FMがいや",
+      "prefecture": "愛媛県"
+    },
+    {
+      "station_id": "niihamafm",
+      "station_name": "Hello! NEW 新居浜 FM",
+      "prefecture": "愛媛県"
+    },
+    {
+      "station_id": "dreamsfm",
+      "station_name": "Dreams FM",
+      "prefecture": "愛媛県"
+    }
+  ],
+  "九州": [
+    {
+      "station_id": "fmyame",
+      "station_name": "FM八女",
+      "prefecture": "福岡県"
+    },
+    {
+      "station_id": "fmkaratsu",
+      "station_name": "ＦＭからつ",
+      "prefecture": "佐賀県"
+    },
+    {
+      "station_id": "fmyatsushiro",
+      "station_name": "Kappa FM",
+      "prefecture": "熊本県"
+    },
+    {
+      "station_id": "kumamotocityfm",
+      "station_name": "FM791",
+      "prefecture": "熊本県"
+    },
+    {
+      "station_id": "yufuin",
+      "station_name": "ゆふいんラヂオ局",
+      "prefecture": "熊本県"
+    },
+    {
+      "station_id": "noasfm",
+      "station_name": "NOASFM",
+      "prefecture": "佐賀県"
+    }
+  ]
+}
