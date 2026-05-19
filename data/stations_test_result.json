@@ -711,24 +711,6 @@
     "stdout": ""
   },
   {
-    "station_id": "fmshimizu",
-    "station_name": "マリンパル",
-    "region": "東海",
-    "status": "EMPTY",
-    "size": 0,
-    "valid": false,
-    "stdout": ""
-  },
-  {
-    "station_id": "fmhi",
-    "station_name": "FM-Hi！",
-    "region": "東海",
-    "status": "EMPTY",
-    "size": 0,
-    "valid": false,
-    "stdout": ""
-  },
-  {
     "station_id": "radiof",
     "station_name": "Radio-f",
     "region": "東海",
