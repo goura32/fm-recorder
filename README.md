@@ -261,6 +261,7 @@ JCBAインターネットサイマルラジオ参加局 **142局** を収録。�
 | エフエム ななみ | **fmnanami** |
 | ふくろうFM | fmfukuro |
 | FM HARO! | haro |
+| HeartFM（爱知） | heartfm ✅ |
 | リッツFM | hitsfm |
 | HeartFM | heartfm |
 | ラジオたかおか | radiotakaoka |
