@@ -1,0 +1,145 @@
+station_id,station_name,region,prefecture,test_status,size_bytes,valid
+fmhana,ＦＭはな,北海道,北海道,OK,126093,True
+moeru,エフエムもえる,北海道,北海道,OK,126489,True
+airtesshi,Ａｉｒてっし,北海道,北海道,OK,126580,True
+radioniseko,ラジオニセコ,北海道,北海道,OK,125906,True
+iruka,FMいるか,北海道,北海道,OK,125922,True
+muroran,FMびゅー,北海道,北海道,OK,125433,True
+fmtomakomai,FMとまこまい,北海道,北海道,OK,126712,True
+fmkuriyama,FMくりやま,北海道,北海道,OK,126562,True
+fmazur,FM AZUR,東北,青森県,OK,125800,True
+applewave,アップルウェーブ,東北,岩手県,OK,126514,True
+fmgoshogawara,FMごしょがわら,東北,青森県,OK,126144,True
+fmone,FMONE,東北,岩手県,OK,128221,True
+fmiwanuma,エフエムいわぬま,東北,宮城県,OK,125601,True
+hatfm,Ｈ＠！ＦＭ,東北,福島県,OK,126081,True
+radiomonster,ラジオ モンスター,東北,福島県,OK,125433,True
+yonezawancvfm,エフエムNCV,東北,山形県,OK,126018,True
+orandaradio,えふえむい〜じゃん(),東北,福島県,OK,126433,True
+harborradio,ハーバーラジオ,東北,宮城県,OK,126084,True
+ultrafm,ウルトラＦＭ,東北,福島県,OK,123813,True
+fmpoco,ＦＭポコ,東北,宮城県,OK,125757,True
+fmkitakata,エフエムきたかた,東北,岩手県,OK,126458,True
+fmaizu,FM愛'S,東北,福島県,OK,125734,True
+fmdaigo,ＦＭだいご,関東,茨城県,OK,126681,True
+fmkashima,FMかしま,関東,茨城県,OK,125983,True
+radiotakasaki,ラジオ高崎,関東,群馬県,OK,126085,True
+fmtaro,エフエム太郎,関東,群馬県,OK,126296,True
+fmoze,ＦＭ ＯＺＥ,関東,栃木県,OK,126410,True
+radionanami,ラヂオななみ,関東,埼玉県,OK,125947,True
+fmchappy,ＦＭチャッピー,関東,千葉県,OK,125924,True
+miyoshifm,発するFM,関東,千葉県,OK,126190,True
+radiokawagoe,ラジオ川越,関東,埼玉県,OK,128205,True
+ulalafm,市川うららFM(I&U-LaLaFM),関東,千葉県,OK,126023,True
+kazusafm,かずさFM,関東,千葉県,OK,126620,True
+radionarita,ラジオ成田,関東,千葉県,OK,125763,True
+fmfukuro,ふくろうFM,関東,埼玉県,OK,126225,True
+skywavefm,SKYWAVE FM,関東,茨城県,OK,126069,True
+fmedogawa,ＦＭえどがわ,関東,東京都,OK,127890,True
+musashinofm,むさしのＦＭ,関東,東京都,OK,125924,True
+fmshinagawa,FMしながわ,関東,東京都,OK,125757,True
+fmkatsushika,かつしかFM,関東,東京都,OK,126786,True
+shibuyanoradio,渋谷のラジオ,関東,東京都,OK,125433,True
+radiocity,中央エフエム・RADIO CITY,関東,東京都,OK,126289,True
+komaraji,コマラジ,関東,東京都,OK,125433,True
+fmblesohonan,ＦＭブルー湘南,関東,神奈川県,EMPTY,0,False
+kamakurafm,鎌倉FM,関東,神奈川県,OK,126603,True
+fmshonan,FM湘南ナパサ,関東,神奈川県,OK,126227,True
+fmodawara,FMおだわら,関東,神奈川県,OK,128777,True
+magicwave,FM湘南マジックウェイブ,関東,神奈川県,OK,129030,True
+fmyamato,FMやまと,関東,神奈川県,OK,125930,True
+radioshonan,レディオ湘南,関東,神奈川県,OK,126088,True
+fmsalus,FMサルース,関東,東京都,OK,122976,True
+marinefm,マリンFM,関東,東京都,OK,126059,True
+fmtotsuka,エフエム戸塚,関東,神奈川県,OK,123886,True
+chigasakifm,エボラジ,関東,神奈川県,OK,125974,True
+fmkofu,エフエム甲府,信越,山梨県,OK,126409,True
+fmfujiyama,FMふじやま,信越,山梨県,OK,125919,True
+fmfujigoko,エフエム ふじごこ,信越,山梨県,OK,126346,True
+fmyatsugatake,FM八ヶ岳,信越,長野県,OK,126765,True
+radiochat,ラジオチャット・FMにいつ,信越,新潟県,OK,126504,True
+fmuonuma,FMうおぬま,信越,新潟県,OK,123951,True
+fmnagaoka,エフエムながおか,信越,新潟県,OK,125928,True
+fmshibata,エフエムしばた,信越,新潟県,OK,124111,True
+fmkento,FM KENTO,信越,新潟県,OK,126264,True
+fmyukiguni,ＦＭゆきぐに,信越,新潟県,OK,126037,True
+fmjyoetsu,FMじょうえつ,信越,新潟県,OK,128223,True
+fmpikkara,FMピッカラ,信越,新潟県,OK,126310,True
+lovefm,LCV FM,信越,群馬県,OK,126085,True
+fmkaruizawa,FM軽井沢,信越,群馬県,OK,126289,True
+azuminofm,エフエムあづみの,信越,長野県,EMPTY,0,False
+shiojirifm,高ボッチ高原FM,信越,長野県,OK,126174,True
+inadanifm,伊那谷FM,信越,長野県,OK,126411,True
+fmpipi,ＦＭＰｉＰｉ,信越,長野県,OK,126519,True
+fmwatch,ＦＭわっち,信越,長野県,OK,125955,True
+hitsfm,Ｈｉｔｓ ＦＭ,東海,岐阜県,OK,125833,True
+haro,FM Haro!,東海,愛知県,OK,125409,True
+fnis,FM ISみらいずステーション,東海,静岡県,EMPTY,0,False
+fmshimada,g-sky76.5,東海,静岡県,OK,126057,True
+fujiyamagogofm,富士山ＧＯＧＯＦＭ,東海,静岡県,OK,126103,True
+voicecue,ボイスキュー,東海,静岡県,OK,126088,True
+fmshimizu,マリンパル,東海,静岡県,EMPTY,0,False
+fmhi,FM-Hi！,東海,静岡県,EMPTY,0,False
+radiof,Radio-f,東海,静岡県,OK,126237,True
+coastfm,COAST-FM76.7MHZ,東海,静岡県,OK,126640,True
+nagisastation,エフエムなぎさステーション,東海,静岡県,OK,126289,True
+ciao,Ciao!,東海,静岡県,OK,126338,True
+fmizunokuni,FMいずのくに,東海,静岡県,OK,126567,True
+fmyaizu,RADIO LUSH,東海,静岡県,OK,126322,True
+fmnanami,エフエム ななみ,東海,愛知県,OK,126223,True
+unitednorth,United North,東海,愛知県,OK,126043,True
+radiosanq,RADIO SANQ,東海,愛知県,OK,126396,True
+fmichinomiya,i-wave,東海,三重県,OK,126579,True
+heartfm,HeartFM,東海,三重県,OK,127980,True
+inabefm,いなべエフエム,東海,三重県,OK,124017,True
+suzuka,Suzuka Voice FM 78.3MHz,東海,三重県,OK,126409,True
+toyamacityfm,富山シティエフエム,北陸,富山県,OK,123481,True
+fmtonami,エフエムとなみ,北陸,富山県,OK,126469,True
+radiotakaoka,ラジオたかおか,北陸,富山県,OK,126412,True
+radiokomatsu,ラジオこまつ,北陸,石川県,OK,126083,True
+radionanao,ラジオななお,北陸,石川県,OK,126012,True
+radionazawa,ラジオかなざわ,北陸,石川県,EMPTY,0,False
+fmkusatsu,えふえむ草津,近畿,滋賀県,OK,123661,True
+fmikaru,ＦＭいかる,近畿,京都府,OK,126328,True
+fmuji,FMうじ,近畿,京都府,OK,125913,True
+fmmaizuru,FMまいづる,近畿,京都府,OK,123949,True
+kyotoribingufm,FM845,近畿,京都府,OK,126037,True
+fmsenri,FM千里,近畿,大阪府,OK,128273,True
+umedafm,ウメダFM,近畿,大阪府,OK,125767,True
+minofm,タッキー816みのおエフエム,近畿,大阪府,OK,128120,True
+fmitami,エフエムいたみ,近畿,兵庫県,OK,126370,True
+fmtakarazuka,ハミングFM宝塚,近畿,兵庫県,OK,123566,True
+sakurafm,さくらFM,近畿,兵庫県,OK,125402,True
+fmmiki,エフエムみっきぃ,近畿,兵庫県,OK,125927,True
+tanba,805たんば,近畿,兵庫県,OK,126621,True
+fmgenki,FM GENKI,近畿,兵庫県,OK,126517,True
+narafm,ならどっとＦＭ,近畿,奈良県,OK,125757,True
+fmnishiyamato,エフエムハイホー,近畿,奈良県,EMPTY,0,False
+fmgojo,ＦＭ五條,近畿,奈良県,OK,126203,True
+fmmahoroba,FMまほろば,近畿,奈良県,OK,125348,True
+bananafm,バナナエフエム,近畿,和歌山県,OK,125725,True
+fmtanabe,FM TANABE,近畿,和歌山県,OK,128188,True
+fmhashimoto,FMはしもと,近畿,和歌山県,OK,126202,True
+beachstation,FMビーチステーション,近畿,和歌山県,OK,126265,True
+radiomomo,レディオ モモ,中国,山口県,OK,126210,True
+fmkurashiki,FMくらしき,中国,岡山県,OK,125462,True
+bingo,FMふくやま,中国,広島県,OK,126454,True
+fmonomichi,FMおのみち,中国,広島県,OK,125922,True
+fmchupea,FMちゅーピー,中国,広島県,OK,126243,True
+fmhatsukaichi,FMはつかいち,中国,広島県,OK,123757,True
+fmhigashihiroshima,FM東広島,中国,広島県,OK,125560,True
+fmmihara,FOR LIFE RADIO,中国,広島県,OK,128939,True
+comeonfm,ＣＯＭＥ ＯＮ ! ＦＭ,中国,広島県,OK,125981,True
+shunanfm,しゅうなんＦＭ,中国,山口県,OK,126571,True
+radiobird,RADIO BIRD,中国,山口県,OK,125971,True
+fmsun,エフエム・サン,中国,山口県,OK,123796,True
+fmradiobaribari,FMラヂオバリバリ,四国,山口県,OK,126540,True
+fmgaiya,FMがいや,四国,愛媛県,OK,123714,True
+niihamafm,Hello! NEW 新居浜 FM,四国,愛媛県,OK,126430,True
+dreamsfm,Dreams FM,四国,愛媛県,OK,126266,True
+fmyame,FM八女,九州,福岡県,OK,126026,True
+fmkaratsu,ＦＭからつ,九州,佐賀県,OK,123462,True
+fmyatsushiro,Kappa FM,九州,熊本県,OK,126111,True
+kumamotocityfm,FM791,九州,熊本県,OK,126133,True
+yufuin,ゆふいんラヂオ局,九州,熊本県,OK,129016,True
+noasfm,NOASFM,九州,佐賀県,OK,123882,True

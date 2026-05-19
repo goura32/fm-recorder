@@ -53,217 +53,213 @@ go install github.com/mikuta0407/jcba-streamer@latest
 jcba-streamer -s fmnanami -d 3600 | ffmpeg -i pipe: -c:a libvorbis -q:a 4 output.opus
 ```
 
-## 放送局一覧
+## 放送局一覧（全142局）
 
-JCBAインターネットサイマルラジオ参加局 **142局** を収録。他の局も受信可能です。
-`station_id` は下表のIDを `-s` オプションに指定します。
+全142局の一括受信テスト実施。 **135局が正常受信成功**、7局でエンティティなし（配信なし／編成分離）。
 
-### 地域別一覧
+### 北海道地区（8局）
 
-#### 北海道地区（8局）
-
-| station_id | 局名 | 所在地 |
+| station_id | 局名 | 受信 |
 |--|--|--|
-| fmhana | ＦＭはな | 北海道 |
-| moeru | エフエムもえる | 北海道 |
-| airtesshi | Ａｉｒてっし | 北海道 |
-| radioniseko | ラジオニセコ | 北海道 |
-| iruka | FMいるか | 北海道 |
-| muroran | FMびゅー | 北海道 |
-| fmtomakomai | FMとまこまい | 北海道 |
-| fmkuriyama | FMくりやま | 北海道 |
+| fmhana | ＦＭはな | ✅ |
+| moeru | エフエムもえる | ✅ |
+| airtesshi | Ａｉｒてっし | ✅ |
+| radioniseko | ラジオニセコ | ✅ |
+| iruka | FMいるか | ✅ |
+| muroran | FMびゅー | ✅ |
+| fmtomakomai | FMとまこまい | ✅ |
+| fmkuriyama | FMくりやま | ✅ |
 
-#### 東北地区（14局）
+### 東北地区（14局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| fmazur | FM AZUR | 青森県 |
-| applewave | アップルウェーブ | 岩手県 |
-| fmgoshogawara | FMごしょがわら | 青森県 |
-| fmone | FMONE | 岩手県 |
-| fmiwanuma | エフエムいわぬま | 宮城県 |
-| hatfm | Ｈ＠！ＦＭ | 福島県 |
-| radiomonster | ラジオ モンスター | 福島県 |
-| yonezawancvfm | エフエムNCV | 山形県 |
-| orandaradio | えふえむい～じゃん | 福島県 |
-| harborradio | ハーバーラジオ | 宮城県 |
-| ultrafm | ウルトラＦＭ | 福島県 |
-| fmpoco | ＦＭポコ | 宮城県 |
-| fmkitakata | エフエムきたかた | 岩手県 |
-| fmaizu | FM愛'S | 福島県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| fmazur | FM AZUR | ✅ |
+| applewave | アップルウェーブ | ✅ |
+| fmgoshogawara | FMごしょがわら | ✅ |
+| fmone | FMONE | ✅ |
+| fmiwanuma | エフエムいわぬま | ✅ |
+| hatfm | Ｈ＠！ＦＭ | ✅ |
+| radiomonster | ラジオ モンスター | ✅ |
+| yonezawancvfm | エフエムNCV | ✅ |
+| orandaradio | えふえむい～じゃん | ✅ |
+| harborradio | ハーバーラジオ | ✅ |
+| ultrafm | ウルトラＦＭ | ✅ |
+| fmpoco | ＦＭポコ | ✅ |
+| fmkitakata | エフエムきたかた | ✅ |
+| fmaizu | FM愛'S | ✅ |
 
-#### 関東地区（34局）
+### 関東地区（34局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| fmdaigo | ＦＭだいご | 茨城県 |
-| fmkashima | FMかしま | 茨城県 |
-| radiotakasaki | ラジオ高崎 | 群馬県 |
-| fmtaro | エフエム太郎 | 群馬県 |
-| fmoze | ＦＭ ＯＺＥ | 栃木県 |
-| radionanami | ラヂオななみ | 埼玉県 |
-| fmchappy | ＦＭチャッピー | 千葉県 |
-| miyoshifm | 発するFM | 千葉県 |
-| radiokawagoe | ラジオ川越 | 埼玉県 |
-| ulalafm | 市川うららFM(I&U-LaLaFM) | 千葉県 |
-| kazusafm | かずさFM | 千葉県 |
-| radionarita | ラジオ成田 | 千葉県 |
-| fmfukuro | ふくろうFM | 埼玉県 |
-| skywavefm | SKYWAVE FM | 茨城県 |
-| fmedogawa | ＦＭえどがわ | 東京都 |
-| musashinofm | むさしのＦＭ | 東京都 |
-| fmshinagawa | FMしながわ | 東京都 |
-| fmkatsushika | かつしかFM | 東京都 |
-| shibuyanoradio | 渋谷のラジオ | 東京都 |
-| radiocity | 中央エフエム・RADIO CITY | 東京都 |
-| komaraji | コマラジ | 東京都 |
-| fmblesohonan | ＦＭブルー湘南 | 神奈川県 |
-| kamakurafm | 鎌倉FM | 神奈川県 |
-| fmshonan | FM湘南ナパサ | 神奈川県 |
-| fmodawara | FMおだわら | 神奈川県 |
-| magicwave | FM湘南マジックウェイブ | 神奈川県 |
-| fmyamato | FMやまと | 神奈川県 |
-| radioshonan | レディオ湘南 | 神奈川県 |
-| fmsalus | FMサルース | 東京都 |
-| marinefm | マリンFM | 東京都 |
-| fmtotsuka | エフエム戸塚 | 神奈川県 |
-| chigasakifm | エボラジ | 神奈川県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| fmdaigo | ＦＭだいご | ✅ |
+| fmkashima | FMかしま | ✅ |
+| radiotakasaki | ラジオ高崎 | ✅ |
+| fmtaro | エフエム太郎 | ✅ |
+| fmoze | ＦＭ ＯＺＥ | ✅ |
+| radionanami | ラヂオななみ | ✅ |
+| fmchappy | ＦＭチャッピー | ✅ |
+| miyoshifm | 発するFM | ✅ |
+| radiokawagoe | ラジオ川越 | ✅ |
+| ulalafm | 市川うららFM(I&U-LaLaFM) | ✅ |
+| kazusafm | かずさFM | ✅ |
+| radionarita | ラジオ成田 | ✅ |
+| fmfukuro | ふくろうFM | ✅ |
+| skywavefm | SKYWAVE FM | ✅ |
+| fmedogawa | ＦＭえどがわ | ✅ |
+| musashinofm | むさしのＦＭ | ✅ |
+| fmshinagawa | FMしながわ | ✅ |
+| fmkatsushika | かつしかFM | ✅ |
+| shibuyanoradio | 渋谷のラジオ | ✅ |
+| radiocity | 中央エフエム・RADIO CITY | ✅ |
+| komaraji | コマラジ | ✅ |
+| fmblesohonan | ＦＭブルー湘南 | ⬜ |
+| kamakurafm | 鎌倉FM | ✅ |
+| fmshonan | FM湘南ナパサ | ✅ |
+| fmodawara | FMおだわら | ✅ |
+| magicwave | FM湘南マジックウェイブ | ✅ |
+| fmyamato | FMやまと | ✅ |
+| radioshonan | レディオ湘南 | ✅ |
+| fmsalus | FMサルース | ✅ |
+| marinefm | マリンFM | ✅ |
+| fmtotsuka | エフエム戸塚 | ✅ |
+| chigasakifm | エボラジ | ✅ |
 
-#### 信越地区（19局）
+### 信越地区（19局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| fmkofu | エフエム甲府 | 山梨県 |
-| fmfujiyama | FMふじやま | 山梨県 |
-| fmfujigoko | エフエム ふじごこ | 山梨県 |
-| fmyatsugatake | FM八ヶ岳 | 長野県 |
-| radiochat | ラジオチャット・FMにいつ | 新潟県 |
-| fmuonuma | FMうおぬま | 新潟県 |
-| fmnagaoka | エフエムながおか | 新潟県 |
-| fmshibata | エフエムしばた | 新潟県 |
-| fmkento | FM KENTO | 新潟県 |
-| fmyukiguni | ＦＭゆきぐに | 新潟県 |
-| fmjyoetsu | FMじょうえつ | 新潟県 |
-| fmpikkara | FMピッカラ | 新潟県 |
-| lovefm | ＬＣＶ ＦＭ | 群馬県 |
-| fmkaruizawa | FM軽井沢 | 群馬県 |
-| azuminofm | エフエムあづみの | 長野県 |
-| shiojirifm | 高ボッチ高原FM | 長野県 |
-| inadanifm | 伊那谷FM | 長野県 |
-| fmpipi | ＦＭＰｉＰｉ | 長野県 |
-| fmwatch | ＦＭわっち | 長野県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| fmkofu | エフエム甲府 | ✅ |
+| fmfujiyama | FMふじやま | ✅ |
+| fmfujigoko | エフエム ふじごこ | ✅ |
+| fmyatsugatake | FM八ヶ岳 | ✅ |
+| radiochat | ラジオチャット・FMにいつ | ✅ |
+| fmuonuma | FMうおぬま | ✅ |
+| fmnagaoka | エフエムながおか | ✅ |
+| fmshibata | エフエムしばた | ✅ |
+| fmkento | FM KENTO | ✅ |
+| fmyukiguni | ＦＭゆきぐに | ✅ |
+| fmjyoetsu | FMじょうえつ | ✅ |
+| fmpikkara | FMピッカラ | ✅ |
+| lovefm | ＬＣＶ ＦＭ | ✅ |
+| fmkaruizawa | FM軽井沢 | ✅ |
+| azuminofm | エフエムあづみの | ⬜ |
+| shiojirifm | 高ボッチ高原FM | ✅ |
+| inadanifm | 伊那谷FM | ✅ |
+| fmpipi | ＦＭＰｉＰｉ | ✅ |
+| fmwatch | ＦＭわっち | ✅ |
 
-#### 北陸地区（6局）
+### 北陸地区（6局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| toyamacityfm | 富山シティエフエム | 富山県 |
-| fmtonami | エフエムとなみ | 富山県 |
-| radiotakaoka | ラジオたかおか | 富山県 |
-| radiokomatsu | ラジオこまつ | 石川県 |
-| radionanao | ラジオななお | 石川県 |
-| radionazawa | ラジオかなざわ | 石川県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| toyamacityfm | 富山シティエフエム | ✅ |
+| fmtonami | エフエムとなみ | ✅ |
+| radiotakaoka | ラジオたかおか | ✅ |
+| radiokomatsu | ラジオこまつ | ✅ |
+| radionanao | ラジオななお | ✅ |
+| radionazawa | ラジオかなざわ | ⬜ |
 
-#### 東海地区（21局）
+### 東海地区（21局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| hitsfm | Ｈｉｔｓ ＦＭ | 岐阜県 |
-| haro | FM Haro! | 愛知県 |
-| fnis | FM ISみらいずステーション | 静岡県 |
-| fmshimada | g-sky 76.5 | 静岡県 |
-| fujiyamagogofm | 富士山ＧＯＧＯＦＭ | 静岡県 |
-| voicecue | ボイスキュー | 静岡県 |
-| fmshimizu | マリンパル | 静岡県 |
-| fmhi | FM-Hi! | 静岡県 |
-| radiof | Radio-f | 静岡県 |
-| coastfm | COAST-FM 76.7MHz | 静岡県 |
-| nagisastation | エフエムなぎさステーション | 静岡県 |
-| ciao | Ciao! | 静岡県 |
-| fmizunokuni | FMいずのくに | 静岡県 |
-| fmyaizu | RADIO LUSH | 静岡県 |
-| **fmnanami** | **エフエム ななみ** | **愛知県（ターゲット）** |
-| unitednorth | United North | 愛知県 |
-| radiosanq | RADIO SANQ | 愛知県 |
-| fmichinomiya | i-wave | 三重県 |
-| heartfm | HeartFM | 三重県 |
-| inabefm | いなべエフエム | 三重県 |
-| suzuka | Suzuka Voice FM 78.3MHz | 三重県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| hitsfm | Ｈｉｔｓ ＦＭ | ✅ |
+| haro | FM Haro! | ✅ |
+| fnis | FM ISみらいずステーション | ⬜ |
+| fmshimada | g-sky 76.5 | ✅ |
+| fujiyamagogofm | 富士山ＧＯＧＯＦＭ | ✅ |
+| voicecue | ボイスキュー | ✅ |
+| fmshimizu | マリンパル | ⬜ |
+| fmhi | FM-Hi! | ⬜ |
+| radiof | Radio-f | ✅ |
+| coastfm | COAST-FM 76.7MHz | ✅ |
+| nagisastation | エフエムなぎさステーション | ✅ |
+| ciao | Ciao! | ✅ |
+| fmizunokuni | FMいずのくに | ✅ |
+| fmyaizu | RADIO LUSH | ✅ |
+| **fmnanami** | **エフエム ななみ** | **✅** |
+| unitednorth | United North | ✅ |
+| radiosanq | RADIO SANQ | ✅ |
+| fmichinomiya | i-wave | ✅ |
+| heartfm | HeartFM | ✅ |
+| inabefm | いなべエフエム | ✅ |
+| suzuka | Suzuka Voice FM 78.3MHz | ✅ |
 
-#### 近畿地区（22局）
+### 近畿地区（22局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| fmkusatsu | えふえむ草津 | 滋賀県 |
-| fmikaru | ＦＭいかる | 京都府 |
-| fmuji | FMうじ | 京都府 |
-| fmmaizuru | FMまいづる | 京都府 |
-| kyotoribingufm | FM845 | 京都府 |
-| fmsenri | FM千里 | 大阪府 |
-| umedafm | ウメダFM | 大阪府 |
-| minofm | タッキー816みのおエフエム | 大阪府 |
-| fmitami | エフエムいたみ | 兵庫県 |
-| fmtakarazuka | ハミングFM宝塚 | 兵庫県 |
-| sakurafm | さくらFM | 兵庫県 |
-| fmmiki | エフエムみっきぃ | 兵庫県 |
-| tanba | 805たんば | 兵庫県 |
-| fmgenki | FM GENKI | 兵庫県 |
-| narafm | なら どっと ＦＭ | 奈良県 |
-| fmnishiyamato | エフエムハイホー | 奈良県 |
-| fmgojo | ＦＭ五條 | 奈良県 |
-| fmmahoroba | FMまほろば | 奈良県 |
-| bananafm | バナナエフエム | 和歌山県 |
-| fmtanabe | FM TANABE | 和歌山県 |
-| fmhashimoto | FMはしもと | 和歌山県 |
-| beachstation | FMビーチステーション | 和歌山県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| fmkusatsu | えふえむ草津 | ✅ |
+| fmikaru | ＦＭいかる | ✅ |
+| fmuji | FMうじ | ✅ |
+| fmmaizuru | FMまいづる | ✅ |
+| kyotoribingufm | FM845 | ✅ |
+| fmsenri | FM千里 | ✅ |
+| umedafm | ウメダFM | ✅ |
+| minofm | タッキー816みのおエフエム | ✅ |
+| fmitami | エフエムいたみ | ✅ |
+| fmtakarazuka | ハミングFM宝塚 | ✅ |
+| sakurafm | さくらFM | ✅ |
+| fmmiki | エフエムみっきぃ | ✅ |
+| tanba | 805たんば | ✅ |
+| fmgenki | FM GENKI | ✅ |
+| narafm | なら どっと ＦＭ | ✅ |
+| fmnishiyamato | エフエムハイホー | ⬜ |
+| fmgojo | ＦＭ五條 | ✅ |
+| fmmahoroba | FMまほろば | ✅ |
+| bananafm | バナナエフエム | ✅ |
+| fmtanabe | FM TANABE | ✅ |
+| fmhashimoto | FMはしもと | ✅ |
+| beachstation | FMビーチステーション | ✅ |
 
-#### 中国地区（12局）
+### 中国地区（12局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| radiomomo | レディオ モモ | 山口県 |
-| fmkurashiki | FMくらしき | 岡山県 |
-| bingo | FMふくやま | 広島県 |
-| fmonomichi | FMおのみち | 広島県 |
-| fmchupea | FMちゅーピー | 広島県 |
-| fmhatsukaichi | FMはつかいち | 広島県 |
-| fmhigashihiroshima | FM東広島 | 広島県 |
-| fmmihara | FOR LIFE RADIO | 広島県 |
-| comeonfm | ＣＯＭＥ ＯＮ ! ＦＭ | 広島県 |
-| shunanfm | しゅうなんＦＭ | 山口県 |
-| radiobird | RADIO BIRD | 山口県 |
-| fmsun | エフエム・サン | 山口県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| radiomomo | レディオ モモ | ✅ |
+| fmkurashiki | FMくらしき | ✅ |
+| bingo | FMふくやま | ✅ |
+| fmonomichi | FMおのみち | ✅ |
+| fmchupea | FMちゅーピー | ✅ |
+| fmhatsukaichi | FMはつかいち | ✅ |
+| fmhigashihiroshima | FM東広島 | ✅ |
+| fmmihara | FOR LIFE RADIO | ✅ |
+| comeonfm | ＣＯＭＥ ＯＮ ! ＦＭ | ✅ |
+| shunanfm | しゅうなんＦＭ | ✅ |
+| radiobird | RADIO BIRD | ✅ |
+| fmsun | エフエム・サン | ✅ |
 
-#### 四国地区（4局）
+### 四国地区（4局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| fmradiobaribari | FMラヂオバリバリ | 山口県 |
-| fmgaiya | FMがいや | 愛媛県 |
-| niihamafm | Hello! NEW 新居浜 FM | 愛媛県 |
-| dreamsfm | Dreams FM | 愛媛県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| fmradiobaribari | FMラヂオバリバリ | ✅ |
+| fmgaiya | FMがいや | ✅ |
+| niihamafm | Hello! NEW 新居浜 FM | ✅ |
+| dreamsfm | Dreams FM | ✅ |
 
-#### 九州地区（6局）
+### 九州地区（6局）
 
-| station_id | 局名 | 所在地 |
-|-------|------|---------|
-| fmyame | FM八女 | 福岡県 |
-| fmkaratsu | ＦＭからつ | 佐賀県 |
-| fmyatsushiro | Kappa FM | 熊本県 |
-| kumamotocityfm | FM791 | 熊本県 |
-| yufuin | ゆふいんラヂオ局 | 熊本県 |
-| noasfm | NOASFM | 佐賀県 |
+| station_id | 局名 | 受信 |
+|-------|--|--|
+| fmyame | FM八女 | ✅ |
+| fmkaratsu | ＦＭからつ | ✅ |
+| fmyatsushiro | Kappa FM | ✅ |
+| kumamotocityfm | FM791 | ✅ |
+| yufuin | ゆふいんラヂオ局 | ✅ |
+| noasfm | NOASFM | ✅ |
 
 ### 主な局のstation_id一覧（かんたん）
 
 | 局名 | station_id |
-|------|-------|
+|--|--|
 | エフエム ななみ | **fmnanami** |
 | ふくろうFM | fmfukuro |
 | FM HARO! | haro |
-| HeartFM（爱知） | heartfm ✅ |
+| HeartFM（愛知） | heartfm ✅ |
 | リッツFM | hitsfm |
-| HeartFM | heartfm |
 | ラジオたかおか | radiotakaoka |
 | FM SALUS | fmsalus |
 | 渋谷のラジオ | shibuyanoradio |
@@ -274,8 +270,21 @@ JCBAインターネットサイマルラジオ参加局 **142局** を収録。�
 | FOR LIFE RADIO | fmmihara |
 | FMふくやま | bingo |
 
-> 💡 **注意**: `station_id` は `-s` オプションとして指定します。
-> 例: `python src/test_record.py -s heartfm -t 60 -o output/heartfm.ogg`
+### エンティティなし（受信不可）の局（7局）
+
+以下の7局は、受信テストで `EMPTY`（サイズ: 0B）となった。現在の時間帯で **編成分離**（非編成）か、radiko配信から外れている可能性がある。
+
+| station_id | 局名 | 所在地 |
+|-------|--|--|--|
+| fmblesohonan | ＦＭブルー湘南 | 神奈川県 |
+| azuminofm | エフエムあづみの | 長野県 |
+| fnis | FM ISみらいずステーション | 静岡県 |
+| fmshimizu | マリンパル | 静岡県 |
+| fmhi | FM-Hi! | 静岡県 |
+| radionazawa | ラジオかなざわ | 石川県 |
+| fmnishiyamato | エフエムハイホー | 奈良県 |
+
+> 💡 **注意**: 局名が異なるIDの局がある（例：FM HARO! → `haro`）。一覧は `data/stations.csv` を参照。
 
 ## ディレクトリ構成
 
@@ -288,15 +297,14 @@ fm-recorder/
 │   └── record.py       # メイン録音スクリプト（ストリーム出力）
 ├── scripts/
 │   ├── export_stations.py  # 局一覧エクスポート
-│   ├── record.sh       # 録音スクリプト
-│   └── record_cron.sh  # cron用
+│   ├── test_all_stations.py  # 全142局受信テスト
 ├── data/
 │   ├── stations.csv    # 全142局CSV
-│   ├── stations_by_region.md  # 地域別マーDOWNリスト
-│   ├──stations.json    # JSON形式一覧
-│   └── stations_raw.csv  # raw list format
+│   ├── stations_by_region.md
+│   ├── stations.json
+│   └── stations_raw.csv
 ├── output/            # 録音ファイル出力先
-└── logs/              # ログ
+└── logs/
 ```
 
 ## 録音結果
@@ -305,9 +313,20 @@ fm-recorder/
 
 | ファイル | サイズ | 内容 |
 |--|--|--|
-| nanami_raw.ogg | 123K | Ogg/Opus 53ページ（10秒） |
-| nanami_converted.wav | 2.9M | Ogg→WAV 変換（PCM 16bit）|
-| nanami_test.mp3 | 302K | Ogg→MP3 変換（libmp3lame q4）|
+| heartfm.ogg | 126K | Ogg/Opus 53ページ（10秒） |
+| heartfm.wav | 2.9M | Ogg→WAV 変換（PCM 16bit）|
+| nanami_raw.ogg | 126K | Ogg/Opus 53ページ（10秒） |
+| nanami_converted.wav | 2.9M | Ogg→WAV 変換 |
+
+## 受信テスト結果サマリー
+
+| 項目 | 結果 |
+|------|------|
+| **総局数** | 142局 |
+| **✅ 受信成功** | 135局（95.1%） |
+| **⬜ 受信不可** | 7局（編成分離／配信なし） |
+| **テスト日** | 2026-05-19 |
+| **テスト方法** | `test_record.py -s {id} -t 10`（10秒バッチ並列テスト） |
 
 ## 注意事項
 
@@ -321,6 +340,7 @@ fm-recorder/
 
 - [x] 録音スクリプトの作成、テスト
 - [x] 放送局一覧の作成
+- [x] 142局の一括受信テスト
 - [ ] JWTリフレッシュ機構の実装
 - [ ] OGG stitching（再接続音の重複削除）
 - [ ] cron自動録音スクリプト

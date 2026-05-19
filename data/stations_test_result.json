@@ -1,0 +1,1298 @@
+[
+  {
+    "station_id": "fmhana",
+    "station_name": "ＦＭはな",
+    "region": "北海道",
+    "status": "OK",
+    "size": 126093,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "moeru",
+    "station_name": "エフエムもえる",
+    "region": "北海道",
+    "status": "OK",
+    "size": 126489,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "airtesshi",
+    "station_name": "Ａｉｒてっし",
+    "region": "北海道",
+    "status": "OK",
+    "size": 126580,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radioniseko",
+    "station_name": "ラジオニセコ",
+    "region": "北海道",
+    "status": "OK",
+    "size": 125906,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "iruka",
+    "station_name": "FMいるか",
+    "region": "北海道",
+    "status": "OK",
+    "size": 125922,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "muroran",
+    "station_name": "FMびゅー",
+    "region": "北海道",
+    "status": "OK",
+    "size": 125433,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmtomakomai",
+    "station_name": "FMとまこまい",
+    "region": "北海道",
+    "status": "OK",
+    "size": 126712,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkuriyama",
+    "station_name": "FMくりやま",
+    "region": "北海道",
+    "status": "OK",
+    "size": 126562,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmazur",
+    "station_name": "FM AZUR",
+    "region": "東北",
+    "status": "OK",
+    "size": 125800,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "applewave",
+    "station_name": "アップルウェーブ",
+    "region": "東北",
+    "status": "OK",
+    "size": 126514,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmgoshogawara",
+    "station_name": "FMごしょがわら",
+    "region": "東北",
+    "status": "OK",
+    "size": 126144,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmone",
+    "station_name": "FMONE",
+    "region": "東北",
+    "status": "OK",
+    "size": 128221,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmiwanuma",
+    "station_name": "エフエムいわぬま",
+    "region": "東北",
+    "status": "OK",
+    "size": 125601,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "hatfm",
+    "station_name": "Ｈ＠！ＦＭ",
+    "region": "東北",
+    "status": "OK",
+    "size": 126081,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiomonster",
+    "station_name": "ラジオ モンスター",
+    "region": "東北",
+    "status": "OK",
+    "size": 125433,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "yonezawancvfm",
+    "station_name": "エフエムNCV",
+    "region": "東北",
+    "status": "OK",
+    "size": 126018,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "orandaradio",
+    "station_name": "えふえむい〜じゃん()",
+    "region": "東北",
+    "status": "OK",
+    "size": 126433,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "harborradio",
+    "station_name": "ハーバーラジオ",
+    "region": "東北",
+    "status": "OK",
+    "size": 126084,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "ultrafm",
+    "station_name": "ウルトラＦＭ",
+    "region": "東北",
+    "status": "OK",
+    "size": 123813,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmpoco",
+    "station_name": "ＦＭポコ",
+    "region": "東北",
+    "status": "OK",
+    "size": 125757,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkitakata",
+    "station_name": "エフエムきたかた",
+    "region": "東北",
+    "status": "OK",
+    "size": 126458,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmaizu",
+    "station_name": "FM愛'S",
+    "region": "東北",
+    "status": "OK",
+    "size": 125734,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmdaigo",
+    "station_name": "ＦＭだいご",
+    "region": "関東",
+    "status": "OK",
+    "size": 126681,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkashima",
+    "station_name": "FMかしま",
+    "region": "関東",
+    "status": "OK",
+    "size": 125983,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiotakasaki",
+    "station_name": "ラジオ高崎",
+    "region": "関東",
+    "status": "OK",
+    "size": 126085,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmtaro",
+    "station_name": "エフエム太郎",
+    "region": "関東",
+    "status": "OK",
+    "size": 126296,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmoze",
+    "station_name": "ＦＭ ＯＺＥ",
+    "region": "関東",
+    "status": "OK",
+    "size": 126410,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radionanami",
+    "station_name": "ラヂオななみ",
+    "region": "関東",
+    "status": "OK",
+    "size": 125947,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmchappy",
+    "station_name": "ＦＭチャッピー",
+    "region": "関東",
+    "status": "OK",
+    "size": 125924,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "miyoshifm",
+    "station_name": "発するFM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126190,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiokawagoe",
+    "station_name": "ラジオ川越",
+    "region": "関東",
+    "status": "OK",
+    "size": 128205,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "ulalafm",
+    "station_name": "市川うららFM(I&U-LaLaFM)",
+    "region": "関東",
+    "status": "OK",
+    "size": 126023,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "kazusafm",
+    "station_name": "かずさFM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126620,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radionarita",
+    "station_name": "ラジオ成田",
+    "region": "関東",
+    "status": "OK",
+    "size": 125763,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmfukuro",
+    "station_name": "ふくろうFM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126225,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "skywavefm",
+    "station_name": "SKYWAVE FM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126069,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmedogawa",
+    "station_name": "ＦＭえどがわ",
+    "region": "関東",
+    "status": "OK",
+    "size": 127890,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "musashinofm",
+    "station_name": "むさしのＦＭ",
+    "region": "関東",
+    "status": "OK",
+    "size": 125924,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmshinagawa",
+    "station_name": "FMしながわ",
+    "region": "関東",
+    "status": "OK",
+    "size": 125757,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkatsushika",
+    "station_name": "かつしかFM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126786,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "shibuyanoradio",
+    "station_name": "渋谷のラジオ",
+    "region": "関東",
+    "status": "OK",
+    "size": 125433,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiocity",
+    "station_name": "中央エフエム・RADIO CITY",
+    "region": "関東",
+    "status": "OK",
+    "size": 126289,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "komaraji",
+    "station_name": "コマラジ",
+    "region": "関東",
+    "status": "OK",
+    "size": 125433,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmblesohonan",
+    "station_name": "ＦＭブルー湘南",
+    "region": "関東",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "kamakurafm",
+    "station_name": "鎌倉FM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126603,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmshonan",
+    "station_name": "FM湘南ナパサ",
+    "region": "関東",
+    "status": "OK",
+    "size": 126227,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmodawara",
+    "station_name": "FMおだわら",
+    "region": "関東",
+    "status": "OK",
+    "size": 128777,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "magicwave",
+    "station_name": "FM湘南マジックウェイブ",
+    "region": "関東",
+    "status": "OK",
+    "size": 129030,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmyamato",
+    "station_name": "FMやまと",
+    "region": "関東",
+    "status": "OK",
+    "size": 125930,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radioshonan",
+    "station_name": "レディオ湘南",
+    "region": "関東",
+    "status": "OK",
+    "size": 126088,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmsalus",
+    "station_name": "FMサルース",
+    "region": "関東",
+    "status": "OK",
+    "size": 122976,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "marinefm",
+    "station_name": "マリンFM",
+    "region": "関東",
+    "status": "OK",
+    "size": 126059,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmtotsuka",
+    "station_name": "エフエム戸塚",
+    "region": "関東",
+    "status": "OK",
+    "size": 123886,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "chigasakifm",
+    "station_name": "エボラジ",
+    "region": "関東",
+    "status": "OK",
+    "size": 125974,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkofu",
+    "station_name": "エフエム甲府",
+    "region": "信越",
+    "status": "OK",
+    "size": 126409,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmfujiyama",
+    "station_name": "FMふじやま",
+    "region": "信越",
+    "status": "OK",
+    "size": 125919,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmfujigoko",
+    "station_name": "エフエム ふじごこ",
+    "region": "信越",
+    "status": "OK",
+    "size": 126346,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmyatsugatake",
+    "station_name": "FM八ヶ岳",
+    "region": "信越",
+    "status": "OK",
+    "size": 126765,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiochat",
+    "station_name": "ラジオチャット・FMにいつ",
+    "region": "信越",
+    "status": "OK",
+    "size": 126504,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmuonuma",
+    "station_name": "FMうおぬま",
+    "region": "信越",
+    "status": "OK",
+    "size": 123951,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmnagaoka",
+    "station_name": "エフエムながおか",
+    "region": "信越",
+    "status": "OK",
+    "size": 125928,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmshibata",
+    "station_name": "エフエムしばた",
+    "region": "信越",
+    "status": "OK",
+    "size": 124111,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkento",
+    "station_name": "FM KENTO",
+    "region": "信越",
+    "status": "OK",
+    "size": 126264,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmyukiguni",
+    "station_name": "ＦＭゆきぐに",
+    "region": "信越",
+    "status": "OK",
+    "size": 126037,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmjyoetsu",
+    "station_name": "FMじょうえつ",
+    "region": "信越",
+    "status": "OK",
+    "size": 128223,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmpikkara",
+    "station_name": "FMピッカラ",
+    "region": "信越",
+    "status": "OK",
+    "size": 126310,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "lovefm",
+    "station_name": "LCV FM",
+    "region": "信越",
+    "status": "OK",
+    "size": 126085,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkaruizawa",
+    "station_name": "FM軽井沢",
+    "region": "信越",
+    "status": "OK",
+    "size": 126289,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "azuminofm",
+    "station_name": "エフエムあづみの",
+    "region": "信越",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "shiojirifm",
+    "station_name": "高ボッチ高原FM",
+    "region": "信越",
+    "status": "OK",
+    "size": 126174,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "inadanifm",
+    "station_name": "伊那谷FM",
+    "region": "信越",
+    "status": "OK",
+    "size": 126411,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmpipi",
+    "station_name": "ＦＭＰｉＰｉ",
+    "region": "信越",
+    "status": "OK",
+    "size": 126519,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmwatch",
+    "station_name": "ＦＭわっち",
+    "region": "信越",
+    "status": "OK",
+    "size": 125955,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "hitsfm",
+    "station_name": "Ｈｉｔｓ ＦＭ",
+    "region": "東海",
+    "status": "OK",
+    "size": 125833,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "haro",
+    "station_name": "FM Haro!",
+    "region": "東海",
+    "status": "OK",
+    "size": 125409,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fnis",
+    "station_name": "FM ISみらいずステーション",
+    "region": "東海",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmshimada",
+    "station_name": "g-sky76.5",
+    "region": "東海",
+    "status": "OK",
+    "size": 126057,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fujiyamagogofm",
+    "station_name": "富士山ＧＯＧＯＦＭ",
+    "region": "東海",
+    "status": "OK",
+    "size": 126103,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "voicecue",
+    "station_name": "ボイスキュー",
+    "region": "東海",
+    "status": "OK",
+    "size": 126088,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmshimizu",
+    "station_name": "マリンパル",
+    "region": "東海",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmhi",
+    "station_name": "FM-Hi！",
+    "region": "東海",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiof",
+    "station_name": "Radio-f",
+    "region": "東海",
+    "status": "OK",
+    "size": 126237,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "coastfm",
+    "station_name": "COAST-FM76.7MHZ",
+    "region": "東海",
+    "status": "OK",
+    "size": 126640,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "nagisastation",
+    "station_name": "エフエムなぎさステーション",
+    "region": "東海",
+    "status": "OK",
+    "size": 126289,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "ciao",
+    "station_name": "Ciao!",
+    "region": "東海",
+    "status": "OK",
+    "size": 126338,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmizunokuni",
+    "station_name": "FMいずのくに",
+    "region": "東海",
+    "status": "OK",
+    "size": 126567,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmyaizu",
+    "station_name": "RADIO LUSH",
+    "region": "東海",
+    "status": "OK",
+    "size": 126322,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmnanami",
+    "station_name": "エフエム ななみ",
+    "region": "東海",
+    "status": "OK",
+    "size": 126223,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "unitednorth",
+    "station_name": "United North",
+    "region": "東海",
+    "status": "OK",
+    "size": 126043,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiosanq",
+    "station_name": "RADIO SANQ",
+    "region": "東海",
+    "status": "OK",
+    "size": 126396,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmichinomiya",
+    "station_name": "i-wave",
+    "region": "東海",
+    "status": "OK",
+    "size": 126579,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "heartfm",
+    "station_name": "HeartFM",
+    "region": "東海",
+    "status": "OK",
+    "size": 127980,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "inabefm",
+    "station_name": "いなべエフエム",
+    "region": "東海",
+    "status": "OK",
+    "size": 124017,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "suzuka",
+    "station_name": "Suzuka Voice FM 78.3MHz",
+    "region": "東海",
+    "status": "OK",
+    "size": 126409,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "toyamacityfm",
+    "station_name": "富山シティエフエム",
+    "region": "北陸",
+    "status": "OK",
+    "size": 123481,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmtonami",
+    "station_name": "エフエムとなみ",
+    "region": "北陸",
+    "status": "OK",
+    "size": 126469,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiotakaoka",
+    "station_name": "ラジオたかおか",
+    "region": "北陸",
+    "status": "OK",
+    "size": 126412,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiokomatsu",
+    "station_name": "ラジオこまつ",
+    "region": "北陸",
+    "status": "OK",
+    "size": 126083,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radionanao",
+    "station_name": "ラジオななお",
+    "region": "北陸",
+    "status": "OK",
+    "size": 126012,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radionazawa",
+    "station_name": "ラジオかなざわ",
+    "region": "北陸",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkusatsu",
+    "station_name": "えふえむ草津",
+    "region": "近畿",
+    "status": "OK",
+    "size": 123661,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmikaru",
+    "station_name": "ＦＭいかる",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126328,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmuji",
+    "station_name": "FMうじ",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125913,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmmaizuru",
+    "station_name": "FMまいづる",
+    "region": "近畿",
+    "status": "OK",
+    "size": 123949,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "kyotoribingufm",
+    "station_name": "FM845",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126037,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmsenri",
+    "station_name": "FM千里",
+    "region": "近畿",
+    "status": "OK",
+    "size": 128273,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "umedafm",
+    "station_name": "ウメダFM",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125767,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "minofm",
+    "station_name": "タッキー816みのおエフエム",
+    "region": "近畿",
+    "status": "OK",
+    "size": 128120,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmitami",
+    "station_name": "エフエムいたみ",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126370,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmtakarazuka",
+    "station_name": "ハミングFM宝塚",
+    "region": "近畿",
+    "status": "OK",
+    "size": 123566,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "sakurafm",
+    "station_name": "さくらFM",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125402,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmmiki",
+    "station_name": "エフエムみっきぃ",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125927,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "tanba",
+    "station_name": "805たんば",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126621,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmgenki",
+    "station_name": "FM GENKI",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126517,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "narafm",
+    "station_name": "ならどっとＦＭ",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125757,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmnishiyamato",
+    "station_name": "エフエムハイホー",
+    "region": "近畿",
+    "status": "EMPTY",
+    "size": 0,
+    "valid": false,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmgojo",
+    "station_name": "ＦＭ五條",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126203,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmmahoroba",
+    "station_name": "FMまほろば",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125348,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "bananafm",
+    "station_name": "バナナエフエム",
+    "region": "近畿",
+    "status": "OK",
+    "size": 125725,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmtanabe",
+    "station_name": "FM TANABE",
+    "region": "近畿",
+    "status": "OK",
+    "size": 128188,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmhashimoto",
+    "station_name": "FMはしもと",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126202,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "beachstation",
+    "station_name": "FMビーチステーション",
+    "region": "近畿",
+    "status": "OK",
+    "size": 126265,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiomomo",
+    "station_name": "レディオ モモ",
+    "region": "中国",
+    "status": "OK",
+    "size": 126210,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkurashiki",
+    "station_name": "FMくらしき",
+    "region": "中国",
+    "status": "OK",
+    "size": 125462,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "bingo",
+    "station_name": "FMふくやま",
+    "region": "中国",
+    "status": "OK",
+    "size": 126454,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmonomichi",
+    "station_name": "FMおのみち",
+    "region": "中国",
+    "status": "OK",
+    "size": 125922,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmchupea",
+    "station_name": "FMちゅーピー",
+    "region": "中国",
+    "status": "OK",
+    "size": 126243,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmhatsukaichi",
+    "station_name": "FMはつかいち",
+    "region": "中国",
+    "status": "OK",
+    "size": 123757,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmhigashihiroshima",
+    "station_name": "FM東広島",
+    "region": "中国",
+    "status": "OK",
+    "size": 125560,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmmihara",
+    "station_name": "FOR LIFE RADIO",
+    "region": "中国",
+    "status": "OK",
+    "size": 128939,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "comeonfm",
+    "station_name": "ＣＯＭＥ ＯＮ ! ＦＭ",
+    "region": "中国",
+    "status": "OK",
+    "size": 125981,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "shunanfm",
+    "station_name": "しゅうなんＦＭ",
+    "region": "中国",
+    "status": "OK",
+    "size": 126571,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "radiobird",
+    "station_name": "RADIO BIRD",
+    "region": "中国",
+    "status": "OK",
+    "size": 125971,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmsun",
+    "station_name": "エフエム・サン",
+    "region": "中国",
+    "status": "OK",
+    "size": 123796,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmradiobaribari",
+    "station_name": "FMラヂオバリバリ",
+    "region": "四国",
+    "status": "OK",
+    "size": 126540,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmgaiya",
+    "station_name": "FMがいや",
+    "region": "四国",
+    "status": "OK",
+    "size": 123714,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "niihamafm",
+    "station_name": "Hello! NEW 新居浜 FM",
+    "region": "四国",
+    "status": "OK",
+    "size": 126430,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "dreamsfm",
+    "station_name": "Dreams FM",
+    "region": "四国",
+    "status": "OK",
+    "size": 126266,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmyame",
+    "station_name": "FM八女",
+    "region": "九州",
+    "status": "OK",
+    "size": 126026,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmkaratsu",
+    "station_name": "ＦＭからつ",
+    "region": "九州",
+    "status": "OK",
+    "size": 123462,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "fmyatsushiro",
+    "station_name": "Kappa FM",
+    "region": "九州",
+    "status": "OK",
+    "size": 126111,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "kumamotocityfm",
+    "station_name": "FM791",
+    "region": "九州",
+    "status": "OK",
+    "size": 126133,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "yufuin",
+    "station_name": "ゆふいんラヂオ局",
+    "region": "九州",
+    "status": "OK",
+    "size": 129016,
+    "valid": true,
+    "stdout": ""
+  },
+  {
+    "station_id": "noasfm",
+    "station_name": "NOASFM",
+    "region": "九州",
+    "status": "OK",
+    "size": 123882,
+    "valid": true,
+    "stdout": ""
+  }
+]
