@@ -35,7 +35,7 @@ async def capture(url: str, token: str, duration: int = 10) -> bytes:
             chunks.append(data)
     
     await ws.close()
-    return b"".join(chunks)  # raw Ogg/Vorbis bytes
+    return b"".join(chunks)  # raw Ogg/Opus bytes
 
 async def main():
     # Get streaming URL and token
@@ -78,9 +78,9 @@ async def main():
  | Token | `data["token"]` (JWT, **valid 15s!**) |
  | Auth | `Bearer {token}` in `additional_headers` |
  | Subproto | `["listener.fmplapla.com"]` (required) |
- | Audio format | Ogg/Vorbis (not WAV!) |
+ | Audio format | Ogg/Opus (Opus codec, libopus 1.2.1, 48kHz stereo) |
  | CDN nodes | `os13xx` (Osaka) / `ts13xx` (Tokyo) — dynamic |
- | Quality diff | ~2% throughput (not meaningful) |
+ | Quality diff | None (high/low parameters are cosmetic — 48kHz stereo both) |
  | Valid stations | 142 stations in `stations.json` |
 
 ---
@@ -156,6 +156,26 @@ subprocess.run([
 
 ---
 
+## Codec Parameters (Measured)
+
+| Parameter | Value |
+|---|---|
+| **Codec** | Opus (Ogg container) |
+| **Encoder** | libopus 1.2.1 / fmpp 1.7.1 |
+| **Sample Rate** | 48,000 Hz |
+| **Channels** | 2 (Stereo) |
+| **Pre-skip** | 0 frames |
+| **Output Gain** | 0 (q7 format) |
+| **Channel Mapping** | 0 (basic stereo) |
+| **Measured Bitrate** | ~12 kbps (both high/low) |
+| **OggS Payload** | OpusHead (metadata), OpusTags, audio packets |
+
+> **Important: `quality=high` and `quality=low` are cosmetically identical** —
+> All codec parameters are exactly the same. The quality parameter may be
+> reserved for future implementation.
+
+---
+
 ## Important Notes
 
 1. **⚠️ Token expires every 15 seconds** — call API every 10 seconds to get new token
@@ -163,11 +183,12 @@ subprocess.run([
 3. **Same token can reconnect** — no need to re-request if connection drops within 15s
 4. **OggS frames in response** — handle as binary, not text
 5. **No channel support** (`channel="0"` only)
-6. **No format selection** — always Ogg/Vorbis
+6. **No format selection** — always Ogg/Opus
 7. **No metadata** — no track info available
 8. **No seek/rewind** — real-time only
 9. **Connection drops** require re-connection
 10. **CDN routing** is dynamic — don't cache URLs
+11. **codec is Opus, not Vorbis** — use `opustags` / `opushead` parsing, not vorbis
 
 ---
 
